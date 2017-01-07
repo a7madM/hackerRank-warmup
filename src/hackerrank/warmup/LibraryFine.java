@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class LibraryFine {
 	public LibraryFine() {
-		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 		String returnDate = sc.nextLine();
 		String expectedDate = sc.nextLine();

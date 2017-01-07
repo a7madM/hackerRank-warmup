@@ -5,29 +5,31 @@ import java.util.Scanner;
 // Problem on HackerRank: https://www.hackerrank.com/challenges/diagonal-difference
 
 public class DiagonalDifference {
-	Scanner sc;
 
-	public DiagonalDifference() {
-		sc = new Scanner(System.in);
+    public int solve(int[][] input) {
+        int sum1 = 0;
+        int length = input.length;
+        for (int i = 0; i < length; i++) {
+            sum1 += input[i][i];
+        }
 
-		int size = sc.nextInt();
-		int arr[][] = new int[size][size];
+        int sum2 = 0;
+        for (int i = 0, x = length - 1; i < length; i++, x--) {
+            sum2 += input[i][x];
+        }
+        int sum = sum1 - sum2;
+        return Math.abs(sum);
+    }
 
-		for (int i = 0; i < size; i++) {
-			for (int x = 0; x < size; x++) {
-				arr[i][x] = sc.nextInt();
-			}
-		}
-		int sum1 = 0;
-		for (int i = 0; i < size; i++) {
-			sum1 += arr[i][i];
-		}
-
-		int sum2 = 0;
-		for (int i = 0, x = size - 1; i < size; i++, x--) {
-			sum2 += arr[i][x];
-		}
-		int sum = sum1 - sum2;
-		System.out.println(Math.abs(sum));
-	}
+    public int[][] getInput() {
+        Scanner sc = new Scanner(System.in);
+        int length = sc.nextInt();
+        int input[][] = new int[length][length];
+        for (int i = 0; i < length; i++) {
+            for (int x = 0; x < length; x++) {
+                input[i][x] = sc.nextInt();
+            }
+        }
+        return input;
+    }
 }
