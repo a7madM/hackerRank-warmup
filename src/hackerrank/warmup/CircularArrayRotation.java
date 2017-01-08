@@ -9,28 +9,39 @@ import java.util.Scanner;
 // problem on HackerRank: https://www.hackerrank.com/challenges/circular-array-rotation
 public class CircularArrayRotation {
 
-    public CircularArrayRotation() {
-        Scanner in = new Scanner(System.in);
-        int n = in.nextInt();
-        int k = in.nextInt();
-        int q = in.nextInt();
-        int[] a = new int[n];
-        for (int a_i = 0; a_i < n; a_i++) {
-            a[a_i] = in.nextInt();
-        }
-        int[] output = solveProblem(a, n, k);
-        System.out.println("-----------------");
-        for (int a0 = 0; a0 < q; a0++) {
-            int m = in.nextInt();
+    int k, q, m;
+    Scanner in;
 
-            System.out.println(output[n - m - 1]);
+    public int[] getInput() {
+        in = new Scanner(System.in);
+        int n = in.nextInt();
+        k = in.nextInt();
+        q = in.nextInt();
+
+        int[] input = new int[n];
+        for (int i = 0; i < n; i++) {
+            input[i] = in.nextInt();
+        }
+        return input;
+    }
+
+    public CircularArrayRotation() {
+
+        int[] input = getInput();
+        int size = input.length;
+        int[] output = solveProblem(input);
+        for (int i = 0; i < q; i++) {
+            int m = in.nextInt();
+            System.out.println(output[size - m - 1]);
         }
     }
 
-    public static int[] solveProblem(int[] input, int n, int k) {
-        int[] output = new int[n];
-        for (int i = 0; i < n; i++) {
-            int position = n - (k + i) % n - 1;
+    public int[] solveProblem(int[] input) {
+        int size = input.length;
+        int[] output = new int[size];
+
+        for (int i = 0; i < size; i++) {
+            int position = size - (k + i) % size - 1;
             output[i] = input[position];
         }
         return output;

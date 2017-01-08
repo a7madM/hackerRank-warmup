@@ -21,21 +21,12 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../../Work/Nafham/WebRTC Works/ProjectRTC-master/views/index.ejs" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../../Work/Nafham/WebRTC Works/ProjectRTC-master/views/local-cam.ejs" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../../Work/Nafham/WebRTC Works/ProjectRTC-master/views/remote-streams.ejs" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/hackerrank/warmup/CircularArrayRotation.class" afterPath="$PROJECT_DIR$/bin/hackerrank/warmup/CircularArrayRotation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/hackerrank/warmup/DiagonalDifference.class" afterPath="$PROJECT_DIR$/bin/hackerrank/warmup/DiagonalDifference.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/hackerrank/warmup/LibraryFine.class" afterPath="$PROJECT_DIR$/bin/hackerrank/warmup/LibraryFine.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/hackerrank/warmup/PlusMinus.class" afterPath="$PROJECT_DIR$/bin/hackerrank/warmup/PlusMinus.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/hackerrank/warmup/SimpleArraySum.class" afterPath="$PROJECT_DIR$/bin/hackerrank/warmup/SimpleArraySum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/main/Application.class" afterPath="$PROJECT_DIR$/bin/main/Application.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hackerrank/warmup/DiagonalDifference.java" afterPath="$PROJECT_DIR$/src/hackerrank/warmup/DiagonalDifference.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hackerrank/warmup/LibraryFine.java" afterPath="$PROJECT_DIR$/src/hackerrank/warmup/LibraryFine.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hackerrank/warmup/PlusMinus.java" afterPath="$PROJECT_DIR$/src/hackerrank/warmup/PlusMinus.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hackerrank/warmup/SimpleArraySum.java" afterPath="$PROJECT_DIR$/src/hackerrank/warmup/SimpleArraySum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hackerrank/warmup/SolveMeFirst.java" afterPath="$PROJECT_DIR$/src/hackerrank/warmup/SolveMeFirst.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hackerrank/warmup/CircularArrayRotation.java" afterPath="$PROJECT_DIR$/src/hackerrank/warmup/CircularArrayRotation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hackerrank/warmup/StairCase.java" afterPath="$PROJECT_DIR$/src/hackerrank/warmup/StairCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hackerrank/warmup/TimeConversion.java" afterPath="$PROJECT_DIR$/src/hackerrank/warmup/TimeConversion.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/Application.java" afterPath="$PROJECT_DIR$/src/main/Application.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/DiagonalDifferenceTest.java" afterPath="$PROJECT_DIR$/src/test/DiagonalDifferenceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/PlusMinusTest.java" afterPath="$PROJECT_DIR$/src/test/PlusMinusTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/SimpleArrayTest.java" afterPath="$PROJECT_DIR$/src/test/SimpleArrayTest.java" />
     </list>
     <ignored path="HackerRankProblems.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,18 +46,7 @@
     <favorites_list name="HackerRankProblems" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="SimpleArraySum.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hackerrank/warmup/SimpleArraySum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -102,17 +82,18 @@
         <option value="$PROJECT_DIR$/src/main/SplitVideoFile.java" />
         <option value="$PROJECT_DIR$/src/main/JoinVideoFile.java" />
         <option value="$PROJECT_DIR$/src/main/MainClass.java" />
-        <option value="$PROJECT_DIR$/src/hackerrank/warmup/CircularArrayRotation.java" />
-        <option value="$PROJECT_DIR$/src/hackerrank/warmup/TimeConversion.java" />
         <option value="$PROJECT_DIR$/src/hackerrank/warmup/LibraryFine.java" />
         <option value="$PROJECT_DIR$/src/hackerrank/warmup/SolveMeFirst.java" />
         <option value="$PROJECT_DIR$/src/test/SimpleArrayTest.java" />
         <option value="$PROJECT_DIR$/src/hackerrank/warmup/SimpleArraySum.java" />
         <option value="$PROJECT_DIR$/src/test/DiagonalDifferenceTest.java" />
         <option value="$PROJECT_DIR$/src/hackerrank/warmup/DiagonalDifference.java" />
-        <option value="$PROJECT_DIR$/src/main/Application.java" />
         <option value="$PROJECT_DIR$/src/hackerrank/warmup/PlusMinus.java" />
         <option value="$PROJECT_DIR$/src/test/PlusMinusTest.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/warmup/StairCase.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/warmup/TimeConversion.java" />
+        <option value="$PROJECT_DIR$/src/main/Application.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/warmup/CircularArrayRotation.java" />
       </list>
     </option>
   </component>
@@ -176,7 +157,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,51 +191,9 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HackerRankProblems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WarmUp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HackerRankProblems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WarmUp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="warmup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,7 +210,7 @@
       <recent name="E:\WorkSpaces\Java\HackerRankProblems\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PlusMinusTest.testcase1">
+  <component name="RunManager" selected="Application.Unnamed">
     <configuration default="false" name="SimpleArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -641,9 +582,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DiagonalDifferenceTest_testcase1 - 2017.01.07 at 22h 22m 23s.xml">
-      <configuration name="DiagonalDifferenceTest.testcase1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DiagonalDifferenceTest_testcase1 - 2017.01.07 at 22h 22m 41s.xml">
       <configuration name="DiagonalDifferenceTest.testcase1" configurationId="JUnit" />
     </history-entry>
@@ -665,6 +603,9 @@
     <history-entry file="PlusMinusTest_testcase1 - 2017.01.07 at 22h 40m 47s.xml">
       <configuration name="PlusMinusTest.testcase1" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PlusMinusTest_testcase1 - 2017.01.09 at 01h 18m 53s.xml">
+      <configuration name="PlusMinusTest.testcase1" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="SimpleArrayTest - 2017.01.07 at 22h 14m 08s.xml">
       <configuration name="SimpleArrayTest" configurationId="JUnit" />
     </history-entry>
@@ -683,7 +624,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32763976" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268921" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3268921" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -726,11 +667,24 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/warmup/SimpleArraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#solve#0;class#SimpleArraySum#0" expanded="false" />
+            <element signature="method#getInput#0;class#SimpleArraySum#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -805,32 +759,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrank/warmup/StairCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrank/warmup/TimeConversion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/hackerrank/warmup/LibraryFine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrank/warmup/CircularArrayRotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -877,14 +809,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/PlusMinusTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
@@ -905,9 +829,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hackerrank/warmup/SimpleArraySum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="method#solve#0;class#SimpleArraySum#0" expanded="false" />
+            <element signature="method#getInput#0;class#SimpleArraySum#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/warmup/StairCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/warmup/TimeConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/warmup/CircularArrayRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="docComment;class#CircularArrayRotation#0" expanded="false" />
+            <element signature="method#getInput#0;class#CircularArrayRotation#0" expanded="false" />
+            <element signature="method#CircularArrayRotation#0;class#CircularArrayRotation#0" expanded="false" />
+            <element signature="method#solveProblem#0;class#CircularArrayRotation#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

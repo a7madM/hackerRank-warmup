@@ -5,7 +5,7 @@ import java.util.Scanner;
 // Proble on HackerRank: https://www.hackerrank.com/challenges/staircase
 public class StairCase {
 
-    public StairCase() {
+    public void solve() {
         Scanner scanner = new Scanner(System.in);
         int size = scanner.nextInt();
         int space = 5;
